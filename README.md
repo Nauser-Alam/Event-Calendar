@@ -2,7 +2,7 @@
 
 A **React-based Calendar** application that allows users to view, add, edit, and delete events. It integrates with Beeceptor for API requests, is fully optimized for performance, and includes error handling and routing using React Router.
 
-### [Live Demo](<YOUR_DEPLOYMENT_LINK>) (hosted on Vercel)
+### [Live Demo](<https://event-calendar-ashen.vercel.app/>) (hosted on Vercel)
 
 ---
 
